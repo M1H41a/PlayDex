@@ -52,3 +52,9 @@ This project will be developed in stages (UI only => Local Database => Server In
 - User authentication (for multi-user support).
 
 ---
+
+<img width="365" height="769" alt="image" src="https://github.com/user-attachments/assets/9aa40452-7c32-49b6-bf29-37f627c15434" />
+
+<img width="382" height="766" alt="image" src="https://github.com/user-attachments/assets/8a13484d-d17d-45a8-9895-ac29c7d8df42" />
+
+
