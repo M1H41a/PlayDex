@@ -1,6 +1,8 @@
 # PlayDex
 Mobile Applications app for music
 
+PlayDex – Collect, Organize, Play
+
 A mobile application to create and manage music playlists. The app allows users to create playlists, add songs, search/filter by artist or title, mark songs as favorites, and calculate total playlist duration.
 
 This project will be developed in stages (UI only => Local Database => Server Integration) according to the **Assessment Lab Plan**.
